@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -14,8 +14,8 @@
             <nav>
                 <ul>
                     <li><a href="2.html">Home</a></li>
-                    <li><a href="#">Anime List</a></li>
-                    <li><a href="#">Genres</a></li>
+                    <li><a href="list.html">Anime List</a></li>
+                    <li><a href="k.html">Genres</a></li>
                     <li><a href="#">About</a></li>
                     <li><a href="#">Contact</a></li>
                 </ul>
